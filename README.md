@@ -1,4 +1,4 @@
-#3 Como rodar:
+# 3 Como rodar:
 
 ```
 npm install
